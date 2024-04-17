@@ -11,7 +11,7 @@ Si no tenemos algunos de estos programas, no podremos ejecutar o visualizar el c
 
 3.	Ahora deberemos ejecutar de igual forma en ambas carpetas el comando “npm run dev” en la terminal, ahora una vez conectado tanto nuestro backend con su base de datos NoSql para poder almacenar todas las peticiones que realicemos con respecto a los comentarios e imágenes que se muestran, asi como en el Front-End para su empaquetado y que nos dé el link para poder ingresar a la página a través de las implementaciones de Vite + React y asi poder entrar ya a la página a través del link que deja el Fron-End
 
-De esta forma ya tendremos listo nuestra ejecución, si quieres saber cómo se instala en la práctica, a continuación te dejo un enlace al video de youtube donde se explica mejor todo:
+De esta forma ya tendremos listo nuestra ejecución, si quieres saber cómo se instala en la práctica, a continuación te dejo un enlace al video de youtube donde se explica mejor todo: https://youtu.be/Ai0SXeKKzag
 
 Hecho por Luis José Suárez Huz C.I: 31.168.035
 Universidad Valle del Momboy
